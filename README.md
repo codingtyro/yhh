@@ -1,2 +1,2 @@
-# yhh
-Config files for my GitHub profile.
+# 物业管理系统
++ 一个练手的项目，2022年9月2日开始搭建。
